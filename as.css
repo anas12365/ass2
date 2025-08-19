@@ -1,0 +1,29 @@
+.hero {
+    width: 1301px;
+    height: 691px;
+    background: url("/file.html/n1/Start\ Convert.png") no-repeat center center/cover;
+    position: relative;
+    margin: 6% auto;
+    padding: 0;
+}
+
+.form {
+    background: #1C1E53;
+    position: absolute;
+     padding: 95px;
+    margin: 4% auto;
+    border-radius: 7px;
+    width: 432px;
+    height: 405px;
+    top: .001px;
+    left: 675px;
+    color: rgb(255, 255, 255);
+
+}
+
+p {
+
+    padding: 2%;
+
+
+}
